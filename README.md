@@ -20,12 +20,19 @@ I'm a software developer who enjoys building useful tools and contributing to op
 ![AWS](https://img.shields.io/badge/AWS-darkorange?logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
 
-## 🧠 Current Project
+## 🧠 On-going Project's
 ### Schema-Lens
 Schema-Lens is an open source project focused on schema analysis and improvement.
 
 🔗 Project Repo:  
 https://github.com/zaeem2396/schema-lens
+
+
+### Laravel-NATS
+A Laravel-first NATS & JetStream integration for building fast, event-driven, and scalable backend systems.
+
+🔗 Project Repo:  
+https://github.com/zaeem2396/laravel-nats
 
 I’m actively looking for **open source contributors**.  
 If you’re interested, feel free to check the repo and contribute.
